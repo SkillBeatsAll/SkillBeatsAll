@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**SkillBeatsAll/SkillBeatsAll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Joel 👨‍💻
 
-Here are some ideas to get you started:
+I am a Javascript developer, with a love for learning. I am very passionate about all things technology!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 I'm currently working on projects for [CalmGuild](https://github.com/CalmGuild)
+
+
+## ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+
+* 🗣 Javascript 
+* 🌐 HTML
+* :octocat: Git
+* 💻 Batch
+
+
+## 📫 Contact Me
+- Twitter - [@n0tjoel](https://twitter.com/n0tjoel)
+- Email - [click to mail](mailto:joelcedras@gmail.com)
+- Discord - [JOEL#6400](https://discordhub.com/profile/234576713005137920)
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SkillBeatsAll)
+
+
+ 
