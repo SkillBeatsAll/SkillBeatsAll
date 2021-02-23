@@ -11,6 +11,7 @@ I am a Javascript developer, with a love for learning. I am very passionate abou
 Here are a few things I've picked up along my learning journey.
 
 * 🗣 Javascript 
+* ⌨ Typescript
 * 🌐 HTML
 * :octocat: Git
 * 💻 Batch
