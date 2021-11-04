@@ -3,7 +3,7 @@
 
 I am a Javascript developer, with a love for learning. I am very passionate about all things technology!
 
-#### 🔭 I'm currently working on projects for [CalmGuild](https://github.com/CalmGuild)
+#### 🔭 I'm currently working on projects aimed at improving my programming skills.
 
 
 ## ⚡ Tech Stack
@@ -15,6 +15,7 @@ Here are a few things I've picked up along my learning journey.
 * 🌐 HTML
 * :octocat: Git
 * 💻 Batch
+* :shipit: Delphi
 
 
 ## 📫 Contact Me
