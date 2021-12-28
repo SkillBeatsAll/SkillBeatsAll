@@ -19,7 +19,7 @@ Here are a few things I've picked up along my learning journey.
 
 
 ## 📫 Contact Me
-- Twitter - [@n0tjoel](https://twitter.com/n0tjoel)
+- Twitter - [@JoelBeatsAll](https://twitter.com/JoelBeatsAll)
 - Email - [click to mail](mailto:joelcedras@gmail.com)
 - Discord - [JOEL#6400](https://discordhub.com/profile/234576713005137920)
 
