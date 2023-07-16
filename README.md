@@ -1,9 +1,9 @@
 
 # 👋 Hey, I'm Joel 👨‍💻
 
-I am a Javascript developer, with a love for learning. I am very passionate about all things technology!
+I am a Javascript/Delphi developer, with a love for learning. I am very passionate about all things technology!
 
-#### 🔭 I'm currently working on projects aimed at improving my programming skills.
+#### 🔭 I'm currently working on projects aimed at improving my programming skills, as well as school-based projects.
 
 
 ## ⚡ Tech Stack
@@ -25,7 +25,8 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SkillBeatsAll)
+[![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FSkillBeatsAll%2FSkillBeatsAll.json&style=flat-square&logo=github&logoColor=springgreen&label=visitors&color=seagreen
+)](http://hits.dwyl.com/SkillBeatsAll/SkillBeatsAll)
 
 
  
