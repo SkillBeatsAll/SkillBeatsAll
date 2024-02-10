@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm Joel 👨‍💻
+# 👋 Hey, I'm Joel Cedras 👨‍💻
 
 I am a Javascript/Delphi developer, with a love for learning. I am very passionate about all things technology!
 
